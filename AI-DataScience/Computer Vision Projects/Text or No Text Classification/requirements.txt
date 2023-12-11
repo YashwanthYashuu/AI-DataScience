@@ -1,3 +1,0 @@
-find the data for training and testing
-
-https://www.kaggle.com/competitions/padhai-text-non-text-classification-level-1/data
