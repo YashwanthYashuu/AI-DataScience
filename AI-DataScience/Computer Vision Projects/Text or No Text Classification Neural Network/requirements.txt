@@ -1,3 +1,0 @@
-Data 
-
-https://www.kaggle.com/competitions/padhai-text-non-text-classification-level-2/data
